@@ -1,0 +1,25 @@
+_repo: The-Radio-Boys-Under-the-Sea--or-The-Hunt-for-Sunken-Treasure_45146
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45146-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Duffield, J. W.
+    gutenberg_agent_id: '4685'
+    url: http://www.gutenberg.org/2009/agents/4685
+description: ''
+gutenberg_issued: '2014-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Radio -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Radio Boys Under the Sea; or, The Hunt for Sunken Treasure
+url: http://www.gutenberg.org/ebooks/45146
